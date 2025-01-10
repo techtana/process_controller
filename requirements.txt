@@ -1,0 +1,6 @@
+ipykernel
+pingouin
+pandas
+scipy
+scikit-learn
+dowhy
